@@ -1,0 +1,23 @@
+"use strict";
+//Question_23;Conditional Tests
+Object.defineProperty(exports, "__esModule", { value: true });
+let car = "bmw";
+console.log(car == "bmw");
+let bike = "CD70";
+console.log(bike == "CD125");
+let game = "Tekken 8";
+console.log(game == "Tekken 8");
+let game_2 = "GTA 6";
+console.log(game_2 == "GTA 5");
+let city = "Karachi";
+console.log(city == "pakistan");
+let country = "Pakistan";
+console.log(country == "Karachi");
+let mobile = "Realme";
+console.log(mobile == "Realme");
+let villain = "thanos";
+console.log(villain == "thanos");
+let hero = "batman";
+console.log(hero == "batman");
+let laptop = "i have";
+console.log(laptop == "i don`t have");
